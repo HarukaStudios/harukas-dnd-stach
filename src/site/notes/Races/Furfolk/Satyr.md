@@ -7,3 +7,7 @@
 See [[Races/Furfolk/Faun\|Faun]] for important race lore
 
 Use same stats as Faun, but -3 to INT, WIS, CHA, and +3 to STR, and DEX
+
+Appearance
+![images.steamqsqusercontent.jpg](/img/user/images.steamqsqusercontent.jpg)
+![images.steamusdwdwwercontent.jpg](/img/user/images.steamusdwdwwercontent.jpg)
