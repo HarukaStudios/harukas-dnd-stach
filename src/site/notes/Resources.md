@@ -4,4 +4,6 @@
 
 # **DM/Player Resources**
 
-https://www.fantasynamegenerators.com/
+https://www.fantasynamegenerators.com/ - Name Generator
+
+
