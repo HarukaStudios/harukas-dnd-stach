@@ -28,4 +28,9 @@ https://www.worldanvil.com/ - worldbuilding tools
 
 [Unearthed Arcana: When Armies Clash*](http://media.wizards.com/2015/downloads/dnd/UA_Battlesystem.pdf)
 
-* * = beta materials
+Items with an asterisk are items that were in Beta at the time of the PDF
+any things in there I can at anytime nullify stat wise for campaign due to the possibility of unbalanced things 
+
+This page is more as a pure resource tab for DnD playing, even outside the campaign
+
+ENJOY FREE DND BOOKS!
